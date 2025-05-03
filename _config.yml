@@ -1,5 +1,8 @@
-title: Noah Thiemke
+title: Data Science Portfolio
 #logo: find picture
-#description: wfefwfe
+author: Noah Thiemke
+email: nthiemke@ad.unc.edu
+description: This is a description
 theme: minima
-skin: solarized
+minima:
+  skin: solarized
