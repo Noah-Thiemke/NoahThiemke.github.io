@@ -5,3 +5,8 @@ plugins:
 minima:
   skin: solarized
 
+navigation:
+  - title: Projects
+    url: /
+  - title: About Me
+    url: /about/
