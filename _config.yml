@@ -1,12 +1,7 @@
 title: My Website
 theme: minima
 
-remote_theme: jekyll/minima@latest  # Pull the latest version of Minima
-
-plugins:
-  - jekyll-remote-theme
-
 minima:
-  skin: solarized  # Use the Solarized skin
+  skin: solarized-dark
 
 
