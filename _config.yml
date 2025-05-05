@@ -1,4 +1,4 @@
-title: My Website
+title: Projects
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
@@ -6,7 +6,5 @@ minima:
   skin: solarized
 
 navigation:
-  - title: Projects
-    url: /
   - title: About Me
     url: /about/
