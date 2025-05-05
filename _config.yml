@@ -5,6 +5,5 @@ plugins:
 minima:
   skin: solarized
 
-navigation:
-  - title: About Me
-    url: /about/
+nav_pages:
+  - about.md
